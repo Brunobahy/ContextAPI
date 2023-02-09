@@ -7,10 +7,11 @@ Projeto realizado durante as aulas do curso React: gerenciamento de estados glob
 | -------------  | --- |
 | :sparkles: Nome        | **ContexAPI**
 | :label: Tecnologias | html, CSS, javascript e React
-| :rocket: URL         | 
+| :rocket: URL         | https://context-api-pied.vercel.app/
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-context-estados-globais-contextapi
 
 
+![as](https://user-images.githubusercontent.com/110056385/217928524-a68f34c6-24cd-4c3d-82c2-6e3c5cbe540f.png)
 
 
 ## Detalhes do projeto
